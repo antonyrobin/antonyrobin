@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Antony robin, a passionate software developer with over 10 years of experience in building scalable, robust, and user-friendly applications. I thrive at the intersection of technology and problem-solving, constantly exploring new tools and frameworks to deliver high-quality solutions.
+I'm Antony Robin, a passionate software developer with over 10 years of experience in building scalable, robust, and user-friendly applications. I thrive at the intersection of technology and problem-solving, constantly exploring new tools and frameworks to deliver high-quality solutions.
 
 ### 🚀 What I Bring to the Table:
 - **Languages & Frameworks**: C#, Java, .NET (3.5, 4.5), Play Framework, Spring Boot, Django, HTML, CSS, JavaScript, ReactJS, AngularJS.
